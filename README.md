@@ -2,14 +2,14 @@
 This app allows creation of groups to send and receive notifications about certain topics.
 
 **CONTRIBUTORS**
-NAME	                CONTRIBUTION
 
-**Mulongo Michael**	      Log in and sign up screens, Project website
 
-**Tibesigwa Dankan**    	Login and sign up backend with firebase, Chat functionality with firebase
+**Mulongo Michael**	           Log in and sign up screens, Project website
 
-**Ainembabazi Shena**   	Chat screens
+**Tibesigwa Dankan**    	     Login and sign up backend with firebase, Chat functionality with firebase
 
-**Watala Alexander Mark**	Chat screeens
+**Ainembabazi Shena**   	     Chat screens
 
-**Nzuki Sylvia**	        Login and sign up frontend
+**Watala Alexander Mark**	     Chat screeens
+
+**Nzuki Sylvia**	             Login and sign up frontend
