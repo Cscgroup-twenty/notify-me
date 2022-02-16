@@ -1,6 +1,6 @@
 **NOTIFYME**
 
-This app allows creation of groups to send and receive notifications about certain topics.
+The **NOTIFYME APP** allows users to create, join groups send and receive notifications about certain topics.
 
 **CONTRIBUTORS AND THEIR CONTRIBUTIONS**
 
