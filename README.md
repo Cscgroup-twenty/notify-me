@@ -1,7 +1,8 @@
 **NOTIFYME**
+
 This app allows creation of groups to send and receive notifications about certain topics.
 
-**CONTRIBUTORS**
+**CONTRIBUTORS AND THEIR CONTRIBUTIONS**
 
 
 **Mulongo Michael**	           Login and signup screens, Project website
